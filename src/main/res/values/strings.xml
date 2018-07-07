@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Weigh To Go</string>
+    <string name="username_text">Username</string>
+    <string name="password_text">Password</string>
+    <string name="button_login_text">Login</string>
+    <string name="login_preferences">com.weightogo_login_preferences</string>
+    <string name="login_status_preferences">com.weightogo_login_status_preferences</string>
+</resources>
